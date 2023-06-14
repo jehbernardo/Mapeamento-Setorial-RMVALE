@@ -209,46 +209,46 @@ um dashboard realizado no software QuickSight, possibilitando análises de quais
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/aero1.jpg" width="80%" height="40%">
 <p align="center"> 
   
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/aero2.jpg" width="80%" height="40%">
 <p align="center">
   
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/aero3.jpg" width="40%" height="40%">
+      <img src="./imagens_git/aero4.jpg" width="40%" height="40%">
 <p align="center"> 
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/swotaero.png" width="80%" height="40%">
 <p align="center">
 
 > CADEIA PETROLÍFERA SH4 – 2709 - IMPORTAÇÃO 1° RMVALE
 
   <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/petro1.jpg" width="80%" height="40%">
 <p align="center"> 
   
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/petro2.jpg" width="80%" height="40%">
 <p align="center">
   
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/petro3.png" width="40%" height="40%">
+      <img src="./imagens_git/petro4.jpg" width="40%" height="40%">
 <p align="center"> 
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/swotpetro.png" width="80%" height="40%">
 <p align="center">
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
