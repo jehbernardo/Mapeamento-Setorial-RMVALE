@@ -225,7 +225,7 @@ um dashboard realizado no software QuickSight, possibilitando análises de quais
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/swotaero.png" width="80%" height="40%">
+      <img src="./imagens_git/swotaeronau.png" width="80%" height="40%">
 <p align="center">
 
 > CADEIA PETROLÍFERA SH4 – 2709 - IMPORTAÇÃO 1° RMVALE
