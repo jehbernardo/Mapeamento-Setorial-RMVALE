@@ -17,12 +17,16 @@ O projeto aborda o mapeamento das cadeias produtivas da Região Metropolitana do
 
 ## A Empresa
 
+> Logo
+
 <div id="top"></div>
 <p align="center">
       <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
 <p align="center">
   
 A **FASTLOG** tem como missão realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, inndependentemente do quão difícil seja, entendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas. 
+  
+> A Equipe
   
 | Avatar            							| Aluno         | Função           		
 | -------------------------------------------- | ---------------- | ---------------- 
@@ -31,13 +35,17 @@ A **FASTLOG** tem como missão realizar consultorias de maneira eficiente e ági
 | <img src = "./imagens_git/igor.jpeg" width="60" >|__Igor Alexandre C. C.Vital__  | *Developer Team*  
 | <img src = "./imagens_git/luan.jpeg" width="60" >|__Luan Silva Costa__  | *Developer Team* 
 | <img src = "./imagens_git/luiz.jpeg" width="60" >|__Luis Guilherme B. de Almeida__ | *Developer Team* 
-| <img src = "./imagens_git/tome.jpeg" width="50" >|__Vinicius Tomé__| *Developer Team*
+| <img src = "./imagens_git/vinicius.jpeg" width="50" >|__Vinicius Tomé__| *Developer Team*
+  
+> Identidade e Propósito
 
 **Missão** : Realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, independentemente do quão difícil seja.
 
 **Visão** : Crescer e se adaptar conforme as necessidades do mercado, tendo competitividade e visando ser referência na área.
 
 **Valores**: Honestidade; Responsabilidade; Dedicação; Pontualidade; Qualidade. 
+  
+ > SWOT da Empresa
 
 <div id="top"></div>
 <p align="center">
@@ -49,22 +57,62 @@ A **FASTLOG** tem como missão realizar consultorias de maneira eficiente e ági
 
 ## Objetivo
 
+A demanda do cliente consiste em entender e avaliar da melhor forma possível as cadeias produtivas da RMVALE, que por ser uma região com muita importação e exportação, o fluxo de registros de transações é enorme, resultando na dificuldade em se encontrar as informações necessárias.
+
+Assim, tem-se por objetivo específico:
+
+<p>• Desenvolver uma interface gráfica que permita o cliente consultar, filtrar e agrupar as informações tratadas da base de dados do governo (ComexStat)
+<p>• Criar um produto que seja de fácil interatividade, ágil e com análises visuais pertinentes
+<p>• Contar com análises logísticas pertinentes aos dados, auxiliando assim o cliente a ter desde uma visão do macro ao micro sobre as importações e exportações da RMVALE  
+  
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+
+## Solução
+
+A equipe da FastLog além de desenvolver uma interface gráfica que permita o cliente consultar, filtrar e agrupar as informações tratadas da base de dados do governo (ComexStat), entregará o produto com análises logísticas pertinentes aos dados, auxiliando o cliente a ter desde uma visão do macro ao micro sobre as importações e exportações.
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+
+## Organização e Metodologia
+  
+Este projeto foi realizado conforme a metodologia ágil, utilizando o software Jira para a organização e acompanhamento das tarefas de cada membro da equipe; durante cada sprint, uma série de atividades eram designadas, com data de início e data limite, possibilitando a análise do tempo gasto em cada uma delas, e, do desempenho dos integrantes.
+
+> Cronograma
+
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">
+
 <details>
-<summary>Requisitos Funcionais</summary>
+<summary>Sprint 01</summary>
 
-<p>• Cadastros de Clientes
-<p>• Cadastro de módulos/soluções Dom Rock
-<p>• Cadastro das etapas de ativação: bronze, silver, gold, distribuição, bp, core, segurança
-(cada etapa tem uma lista de recursos e definições associados – lista de itens e variáveis
-de ambiente que a plataforma usa – são todos fixos e pre-definidos)
-<p>• Cadastro de ativação de clientes (que une clientes, solução e etapas)
-<p>• Cadastro de volume de recursos (fontes de dados, tamanho, quantidade de usuários) para
-cada cliente
-<p>• Cadastro de usuários do Cliente
-<p>• Usuários da aplicação devem ter perfis diferentes (administrador, suporte, cliente)
-<p>• Cadastro de comentários/soluções/sugestão de melhorias para problemas conhecidos ou
-encontrados durante a ativação de cada cliente
-<p>• Consultas e relatórios por cliente, por solução Dom Rock ativada, etapa, dentre outros
-fatores.
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">
+  
+>Burdown Chart
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">  
+  
 </details>
-
+  
+  
+  
+  
+  
+  
+  
+  
