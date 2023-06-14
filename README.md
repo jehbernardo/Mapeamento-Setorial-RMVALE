@@ -98,23 +98,23 @@ _Sprint 04 - 30/05/23 à 12/06/2023_
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint1.png" width="80%" height="30%">
+      <img src="./imagens_git/backlogsprint1.png" width="70%" height="30%">
 <p align="center">
   
->Burdown Chart
-<p>
-Por Itens
+>Burndown Chart
+
+_Por Tempo_
 <div id="top"></div>
 <p align="center">
       <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="30%">
 <p align="center">
-<p> 
-Por Tempo
+
+_Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0101.PNG" width="30%" height="30%">
+      <img src="./imagens_git/burndowm0101.PNG" width="80%" height="30%">
 <p align="center">  
-  
+ 
 </details>
   
 <details>
@@ -123,21 +123,21 @@ Por Tempo
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint2.png" width="80%" height="30%">
+      <img src="./imagens_git/backlogsprint2.png" width="70%" height="30%">
 <p align="center">
   
->Burdown Chart
+>Burndown Chart
   
 _Por Itens_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0202.PNG" width="30%" height="30%">
+      <img src="./imagens_git/burndowm0202.PNG" width="80%" height="30%">
 <p align="center">
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0201..PNG" width="30%" height="30%">
+      <img src="./imagens_git/burndowm0201.PNG" width="80%" height="30%">
 <p align="center">  
   
 </details>
@@ -148,21 +148,21 @@ _Por Tempo_
 >Backlog
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/backlogsprint3.png" width="80%" height="30%">
+      <img src="./imagens_git/backlogsprint3.png" width="60%" height="30%">
 <p align="center">
   
->Burdown Chart
+>Burndown Chart
   
 _Por Itens_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0302.PNG" width="30%" height="30%">
+      <img src="./imagens_git/burndowm0302.PNG" width="80%" height="30%">
 <p align="center">
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0301.PNG" width="30%" height="30%">
+      <img src="./imagens_git/burndowm0301.PNG" width="80%" height="30%">
 <p align="center">  
   
 </details>
@@ -176,18 +176,18 @@ _Por Tempo_
       <img src="./imagens_git/backlogsprint4.png" width="50%" height="30%">
 <p align="center">
   
->Burdown Chart
+>Burndown Chart
   
 _Por Itens_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0401.PNG" width="30%" height="30%">
+      <img src="./imagens_git/burndowm0401.PNG" width="80%" height="30%">
 <p align="center">
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="30%" height="30%">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="30%">
 <p align="center">  
   
 </details>
