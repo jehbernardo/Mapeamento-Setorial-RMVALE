@@ -79,9 +79,14 @@ Este projeto foi realizado conforme a metodologia ágil, utilizando o software J
 
 > Cronograma
 
+<p>• Sprint 01 - _16/03/23 à 03/04/2023_
+<p>• Sprint 02 - _04/04/23 à 24/04/2023_
+<p>• Sprint 03 - _25/04/23 à 29/05/2023_
+<p>• Sprint 04 - _30/05/23 à 12/06/2023_
+
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+      <img src="./imagens_git/cronograma.png" width="80%" height="30%">
 <p align="center">
 
 <details>
@@ -90,7 +95,82 @@ Este projeto foi realizado conforme a metodologia ágil, utilizando o software J
 >Backlog
 <div id="top"></div>
 <p align="center">
+      <img src="./imagens_git/backlogsprint1.png" width="80%" height="30%">
+<p align="center">
+  
+>Burdown Chart
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="80%" height="30%">
+<p align="center">
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
       <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">  
+  
+</details>
+  
+<details>
+<summary>Sprint 02</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint2.png" width="80%" height="30%">
+<p align="center">
+  
+>Burdown Chart
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">  
+  
+</details>
+  
+<details>
+<summary>Sprint 03</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint3.png" width="80%" height="30%">
+<p align="center">
+  
+>Burdown Chart
+  
+_Por Itens_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">
+  
+_Por Tempo_
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+<p align="center">  
+  
+</details>
+  
+<details>
+<summary>Sprint 04</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/backlogsprint4.png" width="80%" height="30%">
 <p align="center">
   
 >Burdown Chart
