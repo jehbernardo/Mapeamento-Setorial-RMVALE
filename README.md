@@ -203,8 +203,52 @@ Com isso geramos gráficos pertinentes para analisar as cadeias produtivas da RM
 A proposta deste projeto foi realizar o mapeamento da RMVALE, de suas cadeias produtivas e valores referentes a importação e exportação dos produtos dentro delas, vemos que a partir dos resultados de cada sprint, a equipe conseguiu suprir a demanda do cliente com
 um dashboard realizado no software QuickSight, possibilitando análises de quaisquer dados inseridos nele.
 
+### Exemplos de Cadeias Produtivas da RMVALE
+
+> CADEIA AERONÁUTICA SH4 – 8802 - EXPORTAÇÃO 1° RMVALE
+
+<div id="top"></div>
 <p align="center">
-      <img src="./GIT/prototipo.gif" width="100%" height="100%">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+<p align="center"> 
+  
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+<p align="center">
+  
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+<p align="center"> 
+
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+<p align="center">
+
+> CADEIA PETROLÍFERA SH4 – 2709 - IMPORTAÇÃO 1° RMVALE
+
+  <div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+<p align="center"> 
+  
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+<p align="center">
+  
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
+<p align="center"> 
+
+<div id="top"></div>
+<p align="center">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
 <p align="center">
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
@@ -214,27 +258,14 @@ um dashboard realizado no software QuickSight, possibilitando análises de quais
 
 <p align="center">   
  <a href="https://www.atlassian.com/software/jira"><img src="./imagens_git/Jira Software.svg" width="20%" height="20%"/>
- <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="./imagens_git/MongoDB.svg" width="20%" height="20%"/></a>
+ <a href="https://www.mongodb.com/"><img src="./imagens_git/MongoDB.svg" width="20%" height="20%"/></a>
 </p>
-
-
-<img src="./imagens_git/Jira Software.svg" width="20%" height="20%"> | * [Jira Software](https://www.atlassian.com/software/jira)
-
-<a href=<img src="./imagens_git/MongoDB.svg" width="10%" height="10%">
-
-* [MongoDB](https://www.mongodb.com/)
-
-<img src="./imagens_git/Python.svg" width="10%" height="10%">
-
-* [Python](https://www.python.org/)
-
-<img src="./imagens_git/Jupyter.svg" width="10%" height="10%">
-
-* [JupyterLab](https://jupyter.org/)
-
-<img src="./imagens_git/aws-quicksight-seeklogo.com.svg" width="8%" height="8%">
-
-* [Quicksight](https://aws.amazon.com/pt/quicksight/)
+ 
+<p align="center">    
+ <a href="https://www.python.org/"><img src="./imagens_git/Python.svg" width="8%" height="8%"/></a>
+ <a href="https://jupyter.org/"><img src="./imagens_git/Jupyter.svg" width="15%" height="15%"/></a>
+ <a href="https://aws.amazon.com/pt/quicksight/"><img src="./imagens_git/aws-quicksight-seeklogo.com.svg" width="8%" height="8%"/></a>
+</p>
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
   
