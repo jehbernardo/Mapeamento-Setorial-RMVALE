@@ -106,13 +106,13 @@ _Sprint 04 - 30/05/23 à 12/06/2023_
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="30%">
+      <img src="./imagens_git/burndowm0102.PNG"  width="80%" height="40%">
 <p align="center">
 
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0101.PNG" width="80%" height="30%">
+      <img src="./imagens_git/burndowm0101.PNG" width="80%" height="40%">
 <p align="center">  
  
 </details>
@@ -131,13 +131,13 @@ _Por Tempo_
 _Por Itens_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0202.PNG" width="80%" height="30%">
+      <img src="./imagens_git/burndowm0202.PNG" width="80%" height="40%">
 <p align="center">
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0201.PNG" width="80%" height="30%">
+      <img src="./imagens_git/burndowm0201.PNG" width="80%" height="40%">
 <p align="center">  
   
 </details>
@@ -156,13 +156,13 @@ _Por Tempo_
 _Por Itens_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0302.PNG" width="80%" height="30%">
+      <img src="./imagens_git/burndowm0302.PNG" width="80%" height="40%">
 <p align="center">
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0301.PNG" width="80%" height="30%">
+      <img src="./imagens_git/burndowm0301.PNG" width="80%" height="40%">
 <p align="center">  
   
 </details>
@@ -181,13 +181,13 @@ _Por Tempo_
 _Por Itens_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0401.PNG" width="80%" height="30%">
+      <img src="./imagens_git/burndowm0401.PNG" width="80%" height="40%">
 <p align="center">
   
 _Por Tempo_
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="30%">
+      <img src="./imagens_git/burndowm0402.PNG" width="80%" height="40%">
 <p align="center">  
   
 </details>
@@ -212,48 +212,29 @@ um dashboard realizado no software QuickSight, possibilitando análises de quais
   
 ## Tecnologias Utilizadas
 
-<img src="./GIT/prototipo.gif" width="100%" height="100%">
+<p align="center">   
+ <a href="https://www.atlassian.com/software/jira"><img src="./imagens_git/Jira Software.svg" width="20%" height="20%"/>
+ <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="./imagens_git/MongoDB.svg" width="20%" height="20%"/></a>
+</p>
 
-* [Jira Software](https://www.atlassian.com/software/jira)
 
-<details>
-<summary>Back-End</summary>
+<img src="./imagens_git/Jira Software.svg" width="20%" height="20%"> | * [Jira Software](https://www.atlassian.com/software/jira)
 
-* [Java](https://www.java.com/pt-BR/?msclkid=7faa842eb8f811ecab39772d4c1ae90b)
+<a href=<img src="./imagens_git/MongoDB.svg" width="10%" height="10%">
 
-</details>
+* [MongoDB](https://www.mongodb.com/)
 
-<details>
-<summary>Banco de Dados</summary>
+<img src="./imagens_git/Python.svg" width="10%" height="10%">
 
-* [SQL Server Nuvem Azure](https://azure.microsoft.com/pt-br/services/sql-database/campaign/)
-</details>
+* [Python](https://www.python.org/)
 
-<details>
-<summary>Reuniões e Comunicação</summary>
+<img src="./imagens_git/Jupyter.svg" width="10%" height="10%">
 
-* [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
+* [JupyterLab](https://jupyter.org/)
 
-* [Whatsapp](https://www.whatsapp.com/)
+<img src="./imagens_git/aws-quicksight-seeklogo.com.svg" width="8%" height="8%">
 
-* [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
-</details>
-
-<details>
-<summary>Outras Ferramentas</summary>
-
-* [Github](https://github.com/)
-
-* [Eclipse IDE](https://www.eclipse.org/downloads/)
-
-* [IntelliJ IDE](https://www.jetbrains.com/idea/promo/?msclkid=6ae44e88c2811d86c0ae2cdbd94ffcfb&utm_source=bing&utm_medium=cpc&utm_campaign=AMER_en_BR_IDEA_Branded&utm_term=intellij&utm_content=intellij%20idea)
-
-* [Jira](https://www.atlassian.com/br/software/jira?msclkid=c8e971f7b8f811ec957d13ca3bfc6c1b)
-
-* [Figma](https://www.figma.com/)
-
-* [Photoshop](https://www.adobe.com/br/products/photoshop.html?sdid=KQPOM&mv=search&ef_id=d67181c6b224183a4875e395ae54f4bf:G:s&s_kwcid=AL!3085!10!79302406606568!79302288716688&msclkid=d67181c6b224183a4875e395ae54f4bf)
-</details>
+* [Quicksight](https://aws.amazon.com/pt/quicksight/)
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
   
