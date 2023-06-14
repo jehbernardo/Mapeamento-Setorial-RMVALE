@@ -22,17 +22,16 @@ O projeto aborda o mapeamento das cadeias produtivas da Região Metropolitana do
       <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
 <p align="center">
   
-A **FASTLOG** tem como missão realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, inndependentemente do quão difícil seja, eEntendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas. 
-  <p>
+A **FASTLOG** tem como missão realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, inndependentemente do quão difícil seja, entendemos que somos capazes de auxiliar nossos clientes por meio da entrega de produtos eficientes e eficazes para a resolução de seus problemas. 
   
 | Avatar            							| Aluno         | Função           		
 | -------------------------------------------- | ---------------- | ---------------- 
-| <img src = "./imagens_git/logofastlog.jpg" width="60" >|__Victor Fernandes__  | *Scrum Master*  
-| <img src = "./imagens_git/logofastlog.jpg" width="60" >|__Ana Clara Leal__| *Product Owner* 
-| <img src = "./imagens_git/logofastlog.jpg" width="60" >|__Felipe Sobral__  | *Developer Team*  
-| <img src = "./imagens_git/logofastlog.jpg" width="60" >|__Patrick Souza__  | *Developer Team* 
-| <img src = "./imagens_git/logofastlog.jpg" width="60" >|__Luiz Felipe Borges__ | *Developer Team* 
-| <img src = "./imagens_git/logofastlog.jpg" width="60" >|__Tiago Camillo__| *Developer Team*
+| <img src = "./imagens_git/rebeca.jpeg" width="60" >|__Rebeca Fonseca de Abreu__  | *Scrum Master*  
+| <img src = "./imagens_git/jessica.jpeg" width="50" >|__Jessica Tinoco Bernardo__| *Product Owner* 
+| <img src = "./imagens_git/igor.jpeg" width="60" >|__Igor Alexandre C. C.Vital__  | *Developer Team*  
+| <img src = "./imagens_git/luan.jpeg" width="60" >|__Luan Silva Costa__  | *Developer Team* 
+| <img src = "./imagens_git/luiz.jpeg" width="60" >|__Luis Guilherme B. de Almeida__ | *Developer Team* 
+| <img src = "./imagens_git/tome.jpeg" width="50" >|__Vinicius Tomé__| *Developer Team*
 
 **Missão** : Realizar consultorias de maneira eficiente e ágil, proporcionando melhorias para nossos clientes, independentemente do quão difícil seja.
 
@@ -42,7 +41,7 @@ A **FASTLOG** tem como missão realizar consultorias de maneira eficiente e ági
 
 <div id="top"></div>
 <p align="center">
-      <img src="./imagens_git/logofastlog.jpg" width="30%" height="30%">
+      <img src="./imagens_git/swotfastlog.png" width="80%" height="80%">
 <p align="center">  
   
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
