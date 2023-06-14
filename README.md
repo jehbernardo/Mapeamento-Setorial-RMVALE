@@ -192,7 +192,70 @@ _Por Tempo_
   
 </details>
   
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+
+## Resultado e Produto
+
+Por meio de modelagem de daos, obtivemos o protótipo de dashboard executado no software QuickSight, os filtros usados na base de dados para a apresentação do dashboard foram: base histórica de 1997 a 2023, do estado de São Paulos e dos dez maiores produtos de importação e exportação.
+
+Com isso geramos gráficos pertinentes para analisar as cadeias produtivas da RMVale e do Brasil.
+
+A proposta deste projeto foi realizar o mapeamento da RMVALE, de suas cadeias produtivas e valores referentes a importação e exportação dos produtos dentro delas, vemos que a partir dos resultados de cada sprint, a equipe conseguiu suprir a demanda do cliente com
+um dashboard realizado no software QuickSight, possibilitando análises de quaisquer dados inseridos nele.
+
+<p align="center">
+      <img src="./GIT/prototipo.gif" width="100%" height="100%">
+<p align="center">
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+
   
+## Tecnologias Utilizadas
+
+<img src="./GIT/prototipo.gif" width="100%" height="100%">
+
+* [Jira Software](https://www.atlassian.com/software/jira)
+
+<details>
+<summary>Back-End</summary>
+
+* [Java](https://www.java.com/pt-BR/?msclkid=7faa842eb8f811ecab39772d4c1ae90b)
+
+</details>
+
+<details>
+<summary>Banco de Dados</summary>
+
+* [SQL Server Nuvem Azure](https://azure.microsoft.com/pt-br/services/sql-database/campaign/)
+</details>
+
+<details>
+<summary>Reuniões e Comunicação</summary>
+
+* [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
+
+* [Whatsapp](https://www.whatsapp.com/)
+
+* [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
+</details>
+
+<details>
+<summary>Outras Ferramentas</summary>
+
+* [Github](https://github.com/)
+
+* [Eclipse IDE](https://www.eclipse.org/downloads/)
+
+* [IntelliJ IDE](https://www.jetbrains.com/idea/promo/?msclkid=6ae44e88c2811d86c0ae2cdbd94ffcfb&utm_source=bing&utm_medium=cpc&utm_campaign=AMER_en_BR_IDEA_Branded&utm_term=intellij&utm_content=intellij%20idea)
+
+* [Jira](https://www.atlassian.com/br/software/jira?msclkid=c8e971f7b8f811ec957d13ca3bfc6c1b)
+
+* [Figma](https://www.figma.com/)
+
+* [Photoshop](https://www.adobe.com/br/products/photoshop.html?sdid=KQPOM&mv=search&ef_id=d67181c6b224183a4875e395ae54f4bf:G:s&s_kwcid=AL!3085!10!79302406606568!79302288716688&msclkid=d67181c6b224183a4875e395ae54f4bf)
+</details>
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
   
   
   
